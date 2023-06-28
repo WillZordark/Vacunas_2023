@@ -33,6 +33,7 @@
             label1 = new System.Windows.Forms.Label();
             btnacceder = new System.Windows.Forms.Button();
             botonsalir = new System.Windows.Forms.Button();
+            AxelMaricon = new System.Windows.Forms.Label();
             SuspendLayout();
             // 
             // lblBienvenida
@@ -86,6 +87,15 @@
             botonsalir.UseVisualStyleBackColor = false;
             botonsalir.Click += botonsalir_Click;
             // 
+            // AxelMaricon
+            // 
+            AxelMaricon.AutoSize = true;
+            AxelMaricon.Location = new System.Drawing.Point(0, 0);
+            AxelMaricon.Name = "AxelMaricon";
+            AxelMaricon.Size = new System.Drawing.Size(84, 20);
+            AxelMaricon.TabIndex = 5;
+            AxelMaricon.Text = "Axel es gay";
+            // 
             // Bienvenida
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
@@ -93,6 +103,7 @@
             BackgroundImage = Properties.Resources.Imagen__7_;
             BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             ClientSize = new System.Drawing.Size(1096, 605);
+            Controls.Add(AxelMaricon);
             Controls.Add(botonsalir);
             Controls.Add(btnacceder);
             Controls.Add(label1);
@@ -115,5 +126,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnacceder;
         private System.Windows.Forms.Button botonsalir;
+        private System.Windows.Forms.Label AxelMaricon;
     }
 }
