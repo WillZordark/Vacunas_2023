@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\CapaBD\\CapaBD.csproj": {}
+    "C:\\Users\\WILLIAM\\Documents\\GitHub\\Vacunas_2023\\CapaBD\\CapaBD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\CapaBD\\CapaBD.csproj": {
+    "C:\\Users\\WILLIAM\\Documents\\GitHub\\Vacunas_2023\\CapaBD\\CapaBD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\CapaBD\\CapaBD.csproj",
+        "projectUniqueName": "C:\\Users\\WILLIAM\\Documents\\GitHub\\Vacunas_2023\\CapaBD\\CapaBD.csproj",
         "projectName": "CapaBD",
-        "projectPath": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\CapaBD\\CapaBD.csproj",
-        "packagesPath": "C:\\Users\\volds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\CapaBD\\obj\\",
+        "projectPath": "C:\\Users\\WILLIAM\\Documents\\GitHub\\Vacunas_2023\\CapaBD\\CapaBD.csproj",
+        "packagesPath": "C:\\Users\\WILLIAM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WILLIAM\\Documents\\GitHub\\Vacunas_2023\\CapaBD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\volds\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\WILLIAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -73,7 +73,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

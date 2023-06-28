@@ -2719,23 +2719,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\volds\\.nuget\\packages\\": {},
+    "C:\\Users\\WILLIAM\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\proyectovacunas2.4\\proyectovacunas2.4.csproj",
+      "projectUniqueName": "C:\\Users\\WILLIAM\\Documents\\GitHub\\Vacunas_2023\\proyectovacunas2.4\\proyectovacunas2.4.csproj",
       "projectName": "proyectovacunas2.4",
-      "projectPath": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\proyectovacunas2.4\\proyectovacunas2.4.csproj",
-      "packagesPath": "C:\\Users\\volds\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\proyectovacunas2.4\\obj\\",
+      "projectPath": "C:\\Users\\WILLIAM\\Documents\\GitHub\\Vacunas_2023\\proyectovacunas2.4\\proyectovacunas2.4.csproj",
+      "packagesPath": "C:\\Users\\WILLIAM\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\WILLIAM\\Documents\\GitHub\\Vacunas_2023\\proyectovacunas2.4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\volds\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\WILLIAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2751,11 +2751,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\CapaBD\\CapaBD.csproj": {
-              "projectPath": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\CapaBD\\CapaBD.csproj"
+            "C:\\Users\\WILLIAM\\Documents\\GitHub\\Vacunas_2023\\CapaBD\\CapaBD.csproj": {
+              "projectPath": "C:\\Users\\WILLIAM\\Documents\\GitHub\\Vacunas_2023\\CapaBD\\CapaBD.csproj"
             },
-            "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\Log_Negocio\\Log_Negocio.csproj": {
-              "projectPath": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\Log_Negocio\\Log_Negocio.csproj"
+            "C:\\Users\\WILLIAM\\Documents\\GitHub\\Vacunas_2023\\Log_Negocio\\Log_Negocio.csproj": {
+              "projectPath": "C:\\Users\\WILLIAM\\Documents\\GitHub\\Vacunas_2023\\Log_Negocio\\Log_Negocio.csproj"
             }
           }
         }
@@ -2798,7 +2798,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
